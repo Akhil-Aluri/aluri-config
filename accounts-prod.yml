@@ -9,7 +9,7 @@ accounts:
   message: "Welcome to Aluri accounts related PROD APIs "
   contactDetails:
     name: "Akhil Aluri - Product Owner"
-    email: "akhil@aluri.com"
+    email: "{ciper}f7f80ff6676569ec8a9e45ee20f8f42326bc72f1f849dd3156c5d629b1ebaf09"
   onCallSupport:
     - (777) 555-1234
     - (777) 523-1345
