@@ -6,7 +6,7 @@ spring:
 build:
   version: "1.0"
 cards:
-  message: "Welcome to Aluri Cards related PROD APIs"
+  message: "Welcome to Aluri Cards related PRODUCTION APIs"
   contactDetails:
     name: "Mounika Lamu - Developer"
     email: "mounika.lamu@ibm.com"
