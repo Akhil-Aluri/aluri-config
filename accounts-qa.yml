@@ -6,7 +6,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to Aluri accounts related QA APIs "
+  message: "Welcome to Aluri accounts related QA-TEST APIs "
   contactDetails:
     name: "Smitha Ray"
     email: "smitha.ray@aluri.com"
